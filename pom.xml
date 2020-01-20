@@ -7,7 +7,7 @@
     <parent>
         <artifactId>java-dependency</artifactId>
         <groupId>com.github.shoothzj</groupId>
-        <version>3.0.1.RELEASE</version>
+        <version>3.0.2.RELEASE</version>
     </parent>
 
     <artifactId>springboot-basic-demo</artifactId>
@@ -102,7 +102,7 @@
         <dependency>
             <groupId>com.github.shoothzj</groupId>
             <artifactId>java-tool</artifactId>
-            <version>3.0.1.RELEASE</version>
+            <version>3.0.6.RELEASE</version>
         </dependency>
 
     </dependencies>
